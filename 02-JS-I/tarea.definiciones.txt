@@ -1,0 +1,5 @@
+Variables: son elementos que pueden tomar cualquier valor que le asignemos
+Strings: son lineas de texto
+Funciones (argumentos, return): son una serie de pasos a seguir que mediante una orden específica devuelven un resultado
+Declaraciones if: son indicaciones de condicion, de cumplirse la condicón se debe ejecutar la orden pre establecida
+Valores Booleanos (true, false): son valores lógicos que indican verdadero/falso, asociados además de lógica a los códigos binarios
