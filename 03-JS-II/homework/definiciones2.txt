@@ -1,0 +1,2 @@
+//FOR: es un bucle que sirve para ejecutar operaciones repetitivas mientras se cumplen las condiciones preestablecidas
+ `&&`, `||`, `!`: Son operadores lógicos dentro de la lógica booleana, son algo así como operadores matemáticos pero para operaciones lógicas, significan Y (o AND), O (o OR) y NO (o NOT), respectivamente
