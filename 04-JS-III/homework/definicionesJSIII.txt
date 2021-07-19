@@ -1,0 +1,1 @@
+arrays: son listas ordenandas de distintos elementos, estos elementos pueden ser de cualquier tipo. Luego se puede acceder a los mismos, modificarlos, eliminarlos, agregar, etc.
