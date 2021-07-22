@@ -1,0 +1,7 @@
+objetos: son similares a los arreglos pero con otras propiedades mas avanzadas, y cuyos elementos se corresponden con una clave seguida de un valor (key:value)
+propiedades: las propiedades son pares de clave-valor, por ejemplo la propiedad .length, en los objetos se puede llamar a las propiedades con la notacion objeto.propiedad
+metodos: los metodos se pueden entender como funciones dentro de un objeto.
+bucles for..in: es similar al bucle for pero sirve especificamente para recorrer los distintos elementos de un objeto.
+notacion de puntos vs notacion de corchetes: la notacion de puntos consiste en colocar el nombre del objeto seguido por un punto y luego el nombre del elemento, la notacion de corchetes es similar a la que se utiliza para acceder a los elementos del array. 
+    la ventaja de la notacion de puntos es que es mas simple y rapida pero es mas limitada, ya que no responde correctamente en algunos casos, como por ejemplo si colocamos el nombre de una variable. 
+    la notacion de corchetes es un poco mas compleja (minimamente) pero nos permite realizar mas cosas.
