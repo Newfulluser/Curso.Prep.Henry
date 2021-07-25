@@ -1,0 +1,2 @@
+* `prototype`: es la manera que tienen las clases para poner un metodo a disposición de todas las instancias dentro de esa clase.
+* _Constructors_ (de Clases): son como funciones que crean clases y definen los elementos que las contienen. Tienen la particularidad que no retornan nada.
